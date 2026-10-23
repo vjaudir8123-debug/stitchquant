@@ -190,4 +190,4 @@ stitchquant/
 
 ## 📄 License
 
-Licensed under the [Apache License, Version 2.0](LICENSE).
+**Proprietary and Confidential.** All rights reserved. Strictly for internal and authorized use only. See [LICENSE](LICENSE).
